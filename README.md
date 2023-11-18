@@ -3,11 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-You need to have node install in your system.
+You need to have NodeJS installed in your system.
 ## Available Scripts
 
 In the project directory, you can run:
-### `npm i`
+### `npm i --force`
 
 ### `npm start`
 
